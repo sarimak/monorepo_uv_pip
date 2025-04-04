@@ -1,0 +1,4 @@
+-r ../../lib/web_service/requirements.in
+-r ../../lib/http_client/requirements.in
+
+-r ../../shared/my_models/requirements.in

@@ -1,0 +1,3 @@
+-r ../../lib/kafka_consumer/requirements.in
+
+-r ../../shared/my_models/requirements.in
